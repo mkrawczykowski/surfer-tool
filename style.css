@@ -1,0 +1,68 @@
+#lista-fraz-liczby{
+    display: flex;
+	-ms-flex-wrap: wrap;flex-wrap: wrap;
+}
+
+#lista-fraz-liczby .lista-item{
+    border: 1px solid #cacaca;
+    padding: 7px;
+    margin: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+}
+
+#lista-fraz-liczby .lista-item.czerwony{
+	background: #ff0000;
+	color: #000000;
+}
+
+#lista-fraz-liczby .lista-item.zielony{
+	background: #00ff00;
+	color: #000000;
+}
+
+#lista-fraz-liczby .lista-item.pomaranczowy{
+	background: orange;
+	color: #000000;
+}
+
+#lista-fraz-liczby .lista-item .keyword{
+    margin-right: 5px;
+}
+
+
+
+
+
+
+
+#lista-fraz-dodatkowe{
+    display: flex;
+	-ms-flex-wrap: wrap;flex-wrap: wrap;
+}
+
+#lista-fraz-dodatkowe .lista-item{
+    border: 1px solid #cacaca;
+    padding: 3px;
+    margin: 4px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    font-size: 16px;
+}
+
+#lista-fraz-dodatkowe .lista-item.czerwony{
+	background: #ff0000;
+	color: #000000;
+}
+
+#lista-fraz-dodatkowe .lista-item.zielony{
+	background: #00ff00;
+	color: #000000;
+}
+
+#lista-fraz-dodatkowe .lista-item.pomaranczowy{
+	background: orange;
+	color: #000000;
+}
