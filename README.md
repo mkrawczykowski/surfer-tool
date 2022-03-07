@@ -2,12 +2,10 @@
 
 Copy the data from this file (it's a data from Surfer SEO, a tool for SEO experts):
 <br><br>
-
-
+https://stronyireszta.pl/portfolio/surfer-tool/example-data.txt
 <br><br>
 Each list item shows what phrase you should use in your text and how many times.
 <br><br><br><br>
-
 
 ...and then paste it to the first textarea here: https://stronyireszta.pl/portfolio/surfer-tool/
 <br><br>
